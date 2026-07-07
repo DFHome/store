@@ -1,8 +1,7 @@
 {
   "integrations": [
     {
-      "repository": "https://github.com/DFHome/integration-demo",
-      "ref": "v1.1.0"
+      "repository": "https://github.com/DFHome/integration-demo"
     }
   ]
 }
