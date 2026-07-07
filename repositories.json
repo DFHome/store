@@ -1,14 +1,7 @@
 {
   "integrations": [
     {
-      "domain": "demo",
-      "name": "Демо",
-      "description": "Виртуальные устройства, комнаты, виджеты и план дома. Установите, чтобы увидеть DFHome без реального оборудования.",
-      "category": "service",
-      "version": "1.0.0",
-      "author": "DFHome",
-      "protocols": [],
-      "source": "https://github.com/DFHome/integration-demo",
+      "repository": "https://github.com/DFHome/integration-demo",
       "ref": "v1.0.0"
     }
   ]
